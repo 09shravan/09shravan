@@ -1,6 +1,6 @@
 # Hi, I'm Shravan 👋
 
-🎓 BCA Student | 📊 Data Analytics Enthusiast | 🏫 YCMOU
+🎓 BCA Student | 📊 Data Analytics Enthusiast | 🏫 YCMOU  | K.P.B Hinduja college
 
 ## 🛠️ Tech Stack
 
@@ -22,3 +22,7 @@
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
+## 🔗 Connect with Me
+
+[![instagram](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/shravan.sayss/?hl=en)
