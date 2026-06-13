@@ -93,6 +93,7 @@ Analyzed purchasing patterns, segmentation & trends from a **3,900-record** data
 
 - 🛒 **DMart Sales Analysis** — EDA with Python/Pandas, MySQL queries, Power BI dashboard (6500+ records)
 - 👥 **Customer Sales Behaviour Analysis** — Analysed purchasing patterns, segmentation, and trends using Python, MySQL & Power BI
+- Hotel Management Sales Analysis
 
 ## 📊 GitHub Stats
 
