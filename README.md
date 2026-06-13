@@ -95,9 +95,7 @@ Analyzed purchasing patterns, segmentation & trends from a **3,900-record** data
 - 👥 **Customer Sales Behaviour Analysis** — Analysed purchasing patterns, segmentation, and trends using Python, MySQL & Power BI
 - Hotel Management Sales Analysis
 
-## 📊 GitHub Stats
 
-![Shravan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=09shravan&show_icons=true&theme=tokyonight)
 
 ## 🔗 Connect with Me
 
